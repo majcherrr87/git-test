@@ -6,3 +6,4 @@ console.log(`Dolor * 2`);
 console.log(`lorem ipsum`);
 console.log(`1`);
 console.log(`2`);
+console.log(`3`);
